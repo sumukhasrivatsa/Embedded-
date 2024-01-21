@@ -1,0 +1,13 @@
+21-1-2024
+
+> there are pins and there are registers related to each pin which can be used to configure what kind of behaviour that pin needs to show
+> port(def) is basically a bunch of pins together and all of them will be controlled by a common set of registers 
+> these are some very useful links
+  https://mansfield-devine.com/speculatrix/2017/04/avr-basics-reading-and-writing-gpio-pins/
+  https://mansfield-devine.com/speculatrix/2017/04/avr-basics-ports-and-direction-registers/
+  https://mansfield-devine.com/speculatrix/2017/02/an-introduction-to-avr-registers-and-macros/
+  https://mansfield-devine.com/speculatrix/2016/12/avr-interrupts/
+  https://mansfield-devine.com/speculatrix/2017/04/avr-basics-ports-and-direction-registers/
+  http://www.rjhcoding.com/avrc-bit-manip.php#:~:text=Setting%20a%20bit%20in%20a,for%20OR%20is%20shown%20below.&text=The%20bitwise%20OR%20operator%2C%20simply,while%20leaving%20other%20bits%20unchanged.
+  https://courses.cs.washington.edu/courses/cse466/11au/calendar/04-Interrupts-posted.pdf
+  

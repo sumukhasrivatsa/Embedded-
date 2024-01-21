@@ -10,4 +10,6 @@
   https://mansfield-devine.com/speculatrix/2017/04/avr-basics-ports-and-direction-registers/
   http://www.rjhcoding.com/avrc-bit-manip.php#:~:text=Setting%20a%20bit%20in%20a,for%20OR%20is%20shown%20below.&text=The%20bitwise%20OR%20operator%2C%20simply,while%20leaving%20other%20bits%20unchanged.
   https://courses.cs.washington.edu/courses/cse466/11au/calendar/04-Interrupts-posted.pdf
-  
+  https://oscarliang.com/arduino-timer-and-interrupt-tutorial/
+  https://exploreembedded.com/wiki/Basics_of_AVR_Interrupts
+  https://alselectro.wordpress.com/2017/08/15/avr-self-learning-timer1-interrupts/
